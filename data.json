@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Jan Reil Gervacio",
+    "job": "Web Developer",
+    "age": 30,
+    "address": "Prk. Roxas Coronobe Maragusan Davao de Oro"
+  },
+  {
+    "name": "Jan Khan Gervacio",
+    "job": "Web Designer",
+    "age": 10,
+    "address": "Prk. Roxas Coronobe Maragusan Davao de Oro"
+  },
+  {
+    "name": "Marchen Gervacio",
+    "job": "Backend Developer",
+    "age": 31,
+    "address": "Prk. Roxas Coronobe Maragusan Davao de Oro"
+  }
+]
